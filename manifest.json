@@ -1,13 +1,13 @@
 {
   "version": "0.2.3",
   "base_url": "https://media.githubusercontent.com/media/Akumyaa/SFUE_Beta_files/main/",
-  "generated_at": "2026-09-27 16:05:05",
+  "generated_at": "2026-09-28 00:33:10",
   "total_files": 202,
-  "total_size": 416976893,
+  "total_size": 416980841,
   "files": {
-    ".gitattributes": {
-      "size": 360,
-      "sha256": "83cca965d1abe10bf69c892d942a5d209843b3d170fb7e32e48b1d0c251032f1"
+    "manifest_tool.py": {
+      "size": 4308,
+      "sha256": "e2173fa0a5592fcd4ee1b6806353c1305f3f2ecfc4283e588222206481f0e219"
     },
     "Superfighters Unity Edition.exe": {
       "size": 667648,
@@ -814,5 +814,5 @@
       "sha256": "4532f22993fe9e2935c4247f7d4f11ac5b93ebd437c9b4148cb7839656979ab2"
     }
   },
-  "_signature": "Nbh5EhR+HpMMmXpTQwFT/po0QhKr1uuaB1zvNo/U+vw="
+  "_signature": "f4T3msGaXc2VqUgf9Uo4ixittUdGUrNNHEibH+k+wzk="
 }
