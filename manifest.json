@@ -1,0 +1,818 @@
+{
+  "version": "0.2.3",
+  "base_url": "https://media.githubusercontent.com/media/Akumyaa/SFUE_Beta_files/main/",
+  "generated_at": "2026-09-27 16:05:05",
+  "total_files": 202,
+  "total_size": 416976893,
+  "files": {
+    ".gitattributes": {
+      "size": 360,
+      "sha256": "83cca965d1abe10bf69c892d942a5d209843b3d170fb7e32e48b1d0c251032f1"
+    },
+    "Superfighters Unity Edition.exe": {
+      "size": 667648,
+      "sha256": "05bdfb5813724b5a1f09b584c3d96ff7fc563bfbd35a09562fa1a066d68831cf"
+    },
+    "UnityCrashHandler64.exe": {
+      "size": 1621416,
+      "sha256": "043996479f30c535c580c4286d517400ce8408ec9862fc86baced42c78c9d9c1"
+    },
+    "UnityPlayer.dll": {
+      "size": 35830192,
+      "sha256": "a2022611884470ddab23927a3eb7bbaef3924c18972d30ba7b5330a8fd25bcc4"
+    },
+    "D3D12/D3D12Core.dll": {
+      "size": 4725304,
+      "sha256": "625bd40005b1c3708695d5256ecf230d278e6b8edba5a88af70f3d91324f3052"
+    },
+    "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll": {
+      "size": 7828912,
+      "sha256": "86a5a4de6bcd74a637d63c96d822dc989d4ffaed6ef1c15c0e6e1f528ae6708f"
+    },
+    "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll": {
+      "size": 611248,
+      "sha256": "9af007ae922ceff72ab325ab1f0e007b022768647164e1b7a843f758c7ce3d76"
+    },
+    "MonoBleedingEdge/etc/mono/browscap.ini": {
+      "size": 311984,
+      "sha256": "4ddd50f31fb968f30bedefc253a46dc3f2890192d05cdaa9e0a64a056eee807e"
+    },
+    "MonoBleedingEdge/etc/mono/config": {
+      "size": 3815,
+      "sha256": "5776169973a26a387b8b3e5c0f2301a7ab9a6dd7c7d3efa22a96abc47fbf8662"
+    },
+    "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx": {
+      "size": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+    },
+    "MonoBleedingEdge/etc/mono/2.0/machine.config": {
+      "size": 29066,
+      "sha256": "e91782a27fa39fc6c1d6ee8b08529f5d35052310d0006034b878eb04b8f2af30"
+    },
+    "MonoBleedingEdge/etc/mono/2.0/settings.map": {
+      "size": 2622,
+      "sha256": "49c6160f9d54af4270a3b4e997fc4a8301f79b9e2070118fa46ddbcbbc44f9a2"
+    },
+    "MonoBleedingEdge/etc/mono/2.0/web.config": {
+      "size": 11635,
+      "sha256": "cf2b54339e069b9e42f7d6795eecbf562c50c1011f4ca8f65f578fe52d97ff92"
+    },
+    "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser": {
+      "size": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+    },
+    "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx": {
+      "size": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+    },
+    "MonoBleedingEdge/etc/mono/4.0/machine.config": {
+      "size": 33598,
+      "sha256": "e60aec2c5115d65b3acb3c55ea21576dbd770f579166c017125571e46ae560ed"
+    },
+    "MonoBleedingEdge/etc/mono/4.0/settings.map": {
+      "size": 2622,
+      "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+    },
+    "MonoBleedingEdge/etc/mono/4.0/web.config": {
+      "size": 18802,
+      "sha256": "e38bb8cc68fe5b4edecdfd288d094b9e8ced7629039b2a347682aba0d8bd7492"
+    },
+    "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser": {
+      "size": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+    },
+    "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx": {
+      "size": 60575,
+      "sha256": "751861040b69ea63a3827507b7c8da9c7f549dc181c1c8af4b7ca78cc97d710a"
+    },
+    "MonoBleedingEdge/etc/mono/4.5/machine.config": {
+      "size": 34056,
+      "sha256": "ee950004b576fb28dc85f4b0435ed04bf96612de2e8b53be84d07afe85a0de6c"
+    },
+    "MonoBleedingEdge/etc/mono/4.5/settings.map": {
+      "size": 2622,
+      "sha256": "ce1db1ad8a9512073164e3eccdc193f7eda036e1a9733caec4635de21b2865c8"
+    },
+    "MonoBleedingEdge/etc/mono/4.5/web.config": {
+      "size": 18811,
+      "sha256": "c4cbddd4fd9347b58cc5a72b36dc4ba1ad2bb699e65869d05cd3fb9865f0d824"
+    },
+    "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser": {
+      "size": 1605,
+      "sha256": "8a1082057ac5681dcd4e9c227ed7fb8eb42ac1618963b5de3b65739dd77e2741"
+    },
+    "MonoBleedingEdge/etc/mono/mconfig/config.xml": {
+      "size": 25817,
+      "sha256": "0c56e34c69124510fa8c19e7b4c2ca6c1c4ff460ae19f798dd0ca035809e396d"
+    },
+    "Superfighters Unity Edition_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt": {
+      "size": 81328,
+      "sha256": "6880d8e1d75c10a065d3269ee39ce1e8ea50e731d2604f21e9f11c68c287ed7c"
+    },
+    "Superfighters Unity Edition_Data/app.info": {
+      "size": 37,
+      "sha256": "1519df8243d0ba54d838f70d45db1906d2e962dedb6722b64c150db29a95530f"
+    },
+    "Superfighters Unity Edition_Data/boot.config": {
+      "size": 134,
+      "sha256": "add35c666464937cf61420882ce33629b609ab0cc182b0ef617c60a0b32befa1"
+    },
+    "Superfighters Unity Edition_Data/globalgamemanagers": {
+      "size": 92644,
+      "sha256": "16cb53859b489020967ffb8bc62a7b927a989aac1178994ae78a02d1d1763a94"
+    },
+    "Superfighters Unity Edition_Data/globalgamemanagers.assets": {
+      "size": 193044,
+      "sha256": "575a734ef503dca65c33314705c5a009b4949aeba3d7c216e0f6e5ddc5ff1aa1"
+    },
+    "Superfighters Unity Edition_Data/globalgamemanagers.assets.resS": {
+      "size": 2796240,
+      "sha256": "39dd38fcd8dd95d41d6d55fe16a448d29fe2c31d9a162c825c24c6d99a893d7a"
+    },
+    "Superfighters Unity Edition_Data/level0": {
+      "size": 218052,
+      "sha256": "4c180365c80a935353e18a0a5b2f7c77f9c14311159cbcd7a7fec4bd1f668abc"
+    },
+    "Superfighters Unity Edition_Data/level1": {
+      "size": 66888,
+      "sha256": "3d5d9a7e381386b71a323e9e1a415ec2eb7a8ec1fa7d2100fbf976588fdd8d85"
+    },
+    "Superfighters Unity Edition_Data/level2": {
+      "size": 60092,
+      "sha256": "e3ad483a321b63a4274f6bd7197b613e7086aa5e641712696a8a540834ae7b1f"
+    },
+    "Superfighters Unity Edition_Data/level3": {
+      "size": 115140,
+      "sha256": "e2d960947802e9a8061fbaae4ae56ef031748f4de7769bae89a47a0673accd17"
+    },
+    "Superfighters Unity Edition_Data/level4": {
+      "size": 122436,
+      "sha256": "e4181c81fcb60fe8ca2a6b9e5c78aa05857e8cd2e3603f108965c8014fa8e501"
+    },
+    "Superfighters Unity Edition_Data/level5": {
+      "size": 212180,
+      "sha256": "ab7e00334a16e7e8ac20b93a7900b3cf3a5572c6d3d5041a1f6e3c3234228a88"
+    },
+    "Superfighters Unity Edition_Data/level6": {
+      "size": 97060,
+      "sha256": "62ec6c06f446ed4fdd330a416e3c8d80f26f3357db69039a25cdee01169bf591"
+    },
+    "Superfighters Unity Edition_Data/level7": {
+      "size": 40308,
+      "sha256": "1f8a238e7e8f27751a16e4d711e52efe09e19c21289d26a591d8879e7540c79f"
+    },
+    "Superfighters Unity Edition_Data/level8": {
+      "size": 200868,
+      "sha256": "062b8038871a305f5be7c6654a7ff1971ca90fa7ef9428f24a26b319764da45d"
+    },
+    "Superfighters Unity Edition_Data/resources.assets": {
+      "size": 544076,
+      "sha256": "ca83b95299c814590fc6bc7b13b48783e7e2983991ad2bb7d4509b82e021158b"
+    },
+    "Superfighters Unity Edition_Data/resources.assets.resS": {
+      "size": 2604032,
+      "sha256": "8acb41f03783cbce9838ddd103a2e5f21c3de7b7e747cd41d07d0be595db1a34"
+    },
+    "Superfighters Unity Edition_Data/RuntimeInitializeOnLoads.json": {
+      "size": 1565,
+      "sha256": "9be4efb45207afdd2b69781ba6489dbb26a016bacdf344c71e5e9a5031fefb2b"
+    },
+    "Superfighters Unity Edition_Data/ScriptingAssemblies.json": {
+      "size": 3991,
+      "sha256": "425cacc4d239944c7e5d26b0bedb3092ef32a1bbb18ab0cc851b590efb74ec99"
+    },
+    "Superfighters Unity Edition_Data/sharedassets0.assets": {
+      "size": 965512,
+      "sha256": "45aecc1e675fd0ad593734dd8527e790e02a3ca52ce7e75a43f7c2442f5d62fd"
+    },
+    "Superfighters Unity Edition_Data/sharedassets0.assets.resS": {
+      "size": 6560496,
+      "sha256": "85488462e20651090dbb01fdf1cba1069e17f39e7b6f2b938236533b41004af9"
+    },
+    "Superfighters Unity Edition_Data/sharedassets0.resource": {
+      "size": 2560672,
+      "sha256": "0c4a5b82fbb5c116a9c44f1245c5bbd027d7f34332f5cd88e0d54d1fd59de337"
+    },
+    "Superfighters Unity Edition_Data/sharedassets1.assets": {
+      "size": 82464,
+      "sha256": "01aef1d209fc21c11cce59d85223616ae5a12204ffda12fe0609b22197af7da7"
+    },
+    "Superfighters Unity Edition_Data/sharedassets1.assets.resS": {
+      "size": 1351184,
+      "sha256": "7d2efe30437d2f435b57a3c4d1e57e2e5e2b936aeb1b2bd4f68d0f2be40dbb58"
+    },
+    "Superfighters Unity Edition_Data/sharedassets1.resource": {
+      "size": 7529184,
+      "sha256": "b371bfa7643cb6b5a90a18ae2acb969dc4fba5a58f21cf81467e365a8fc11e04"
+    },
+    "Superfighters Unity Edition_Data/sharedassets2.assets": {
+      "size": 26904,
+      "sha256": "a29ed76d887c1c0556bd9ffcf256ca33ca27b441188f44b8a4c6390d4ac06725"
+    },
+    "Superfighters Unity Edition_Data/sharedassets2.resource": {
+      "size": 8512,
+      "sha256": "5e16cf6abb12b0e350cfe8b76f307c1065ac85ada9e6f238c6d426ef4cf11d5d"
+    },
+    "Superfighters Unity Edition_Data/sharedassets3.assets": {
+      "size": 608052,
+      "sha256": "b4efb4703afc2d31417a08245190fba91ee5f7436642e36522815883442cda3f"
+    },
+    "Superfighters Unity Edition_Data/sharedassets3.assets.resS": {
+      "size": 59352848,
+      "sha256": "352a132b15a09f8f44a2b655c3cbb2ab466bd64c94e68d3e0502868815127912"
+    },
+    "Superfighters Unity Edition_Data/sharedassets3.resource": {
+      "size": 15584,
+      "sha256": "5ec6152af7da0b86bd3fa94eedbe50ceb51563e10a46cbb04673e33ae3e0179c"
+    },
+    "Superfighters Unity Edition_Data/sharedassets4.assets": {
+      "size": 35336,
+      "sha256": "ddff91ed9357277d0fd58015731ba971f412189df10d1d6a2df90ea5f89e591a"
+    },
+    "Superfighters Unity Edition_Data/sharedassets4.assets.resS": {
+      "size": 132720,
+      "sha256": "778906de68317c32a980fd1e3aa7c8459af715ec4e492ead57d1abec48b4c26b"
+    },
+    "Superfighters Unity Edition_Data/sharedassets4.resource": {
+      "size": 9600,
+      "sha256": "d14a7bb1db5bff65dbfc4e041b38b98799edd8525b97db10bba84d1e371c91aa"
+    },
+    "Superfighters Unity Edition_Data/sharedassets5.assets": {
+      "size": 55508,
+      "sha256": "37fd88afce338d81c019d3fd1a0363cca859253e2580496da225c5463d27d6de"
+    },
+    "Superfighters Unity Edition_Data/sharedassets5.assets.resS": {
+      "size": 6704,
+      "sha256": "51717b5080c78d5b24512a3b7a8a87682286f2fb34b3ec1f97e46f6ef5d25a9e"
+    },
+    "Superfighters Unity Edition_Data/sharedassets5.resource": {
+      "size": 236926304,
+      "sha256": "5f4492ffb72b63279844a40a8c5021c87c8ebcaa4167f854d31eb71dfd3c4cf8"
+    },
+    "Superfighters Unity Edition_Data/sharedassets6.assets": {
+      "size": 3580,
+      "sha256": "c820ca1c0c4473b6b3e10f36f1bb34a665cf1b7ceef8e9e64bd597e75294e5fd"
+    },
+    "Superfighters Unity Edition_Data/sharedassets6.assets.resS": {
+      "size": 521712,
+      "sha256": "93e79d4564001d37fad55c8bfbe5aac16a271a89c04e6920c7e777e23b1c8634"
+    },
+    "Superfighters Unity Edition_Data/sharedassets7.assets": {
+      "size": 5260,
+      "sha256": "8cb18cba5fd1de0bc4303258007d064b8334e9607e9b7ae0ecceef37c5f97416"
+    },
+    "Superfighters Unity Edition_Data/sharedassets7.assets.resS": {
+      "size": 997248,
+      "sha256": "dd8cdddcad065491eb2bf3c2a886cf299d8f38577222490a2f2d328e9313ba8b"
+    },
+    "Superfighters Unity Edition_Data/sharedassets7.resource": {
+      "size": 125952,
+      "sha256": "becf81dcc48ab4c1717e4bfc60ae1dc8c31f50ddd76a48a5a9f9dbe04a32139b"
+    },
+    "Superfighters Unity Edition_Data/sharedassets8.assets": {
+      "size": 20072,
+      "sha256": "09f202313277bf3dd20cb25ff1f2b227ff21cff4f2979651f7c121f0fb3868f5"
+    },
+    "Superfighters Unity Edition_Data/sharedassets8.assets.resS": {
+      "size": 2012160,
+      "sha256": "07a0f890bbe7ef121f68fc21793d6c1f1e2f5aa88e9600b622dbef8cd83a5690"
+    },
+    "Superfighters Unity Edition_Data/sharedassets8.resource": {
+      "size": 9760,
+      "sha256": "1929af7cfc959adeb3e8ad298533961a48bc7a14927e1bbd3056cfb739392db0"
+    },
+    "Superfighters Unity Edition_Data/Managed/Assembly-CSharp.dll": {
+      "size": 318976,
+      "sha256": "276c4c3722a3695dec30bc770d09a2d4ab07368faa8dfd1b0406ccc7671ee5ab"
+    },
+    "Superfighters Unity Edition_Data/Managed/Mono.Security.dll": {
+      "size": 241152,
+      "sha256": "618009319dbf3ae374f9b5dc0d0522e1e1bdd172200c120a5471747b7991a584"
+    },
+    "Superfighters Unity Edition_Data/Managed/mscorlib.dll": {
+      "size": 4632064,
+      "sha256": "6c76e06e6d44cf0f39bf59e6a90770968b70093ad4c1572dfbc5e46e431c5fbf"
+    },
+    "Superfighters Unity Edition_Data/Managed/netstandard.dll": {
+      "size": 90112,
+      "sha256": "6ae62e082dc494a2433984177f60ca4db5fae69b1f360a8b33754172b310b8c5"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.ComponentModel.Composition.dll": {
+      "size": 257024,
+      "sha256": "0c3e81771a5fe9657bea02887996de72606c3cb247e4fbe413f743f40e2af244"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Configuration.dll": {
+      "size": 124928,
+      "sha256": "04907729e87a101e62d3a5c93cfa16688bee745d05440d6daa0c541964be27ab"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Core.dll": {
+      "size": 1113088,
+      "sha256": "a5e7d47313da0eca0b92a901a30498f5e970916faf63b70b74dd62b09760ed72"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Data.DataSetExtensions.dll": {
+      "size": 29696,
+      "sha256": "498f14c37d83f946a47a79e01de777e62f269ee9c3820f2026b59ab1c1b9222f"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Data.dll": {
+      "size": 2125312,
+      "sha256": "427478545ce66b632414ca838088ea073f250ed16b21c70005f48cb571350e47"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.dll": {
+      "size": 2641920,
+      "sha256": "7019d6b6dbfa07cf30f62e7d3ccb969f70cbf001fd72112938ffb535c7f75d81"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Drawing.dll": {
+      "size": 489984,
+      "sha256": "e182e688223acedb8135227e8fbff17d5ed22f47f81141aa9cb96ef1ab9926fc"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.EnterpriseServices.dll": {
+      "size": 44544,
+      "sha256": "84af394ad863e31407eb2b9555ca7e96a9f1966630f5d7f0eec54f0011f6babc"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.IO.Compression.dll": {
+      "size": 114688,
+      "sha256": "80421a67b4162a5f1b4aad6a8327c6d1fb4b04dedd39dae14a770b812594fae2"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.IO.Compression.FileSystem.dll": {
+      "size": 18432,
+      "sha256": "2730d2a27f9362259a406ea14727e5f0a71bc21a6825be94f8623a84bd9f9c79"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.IO.Hashing.dll": {
+      "size": 50488,
+      "sha256": "ac7ac3e83805b0b621c48b90543dc733c9a89106835278618357d6187e3da74e"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Memory.dll": {
+      "size": 4608,
+      "sha256": "c4f030a2cba7da7cdcf493257c24560e203d355904aee490d645a935842f834a"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Net.Http.dll": {
+      "size": 122880,
+      "sha256": "3cd3ac19050d5031c13644cd87958ad8029b79ce16c7747faf3d0542e7fb45a3"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Numerics.dll": {
+      "size": 119296,
+      "sha256": "ac9224b32355a09f09b706cab568384f64cf8116825c5911cef1e13221c61c38"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Runtime.CompilerServices.Unsafe.dll": {
+      "size": 18024,
+      "sha256": "01748200f2400c742aa689f1f5101bd6298efdfd92c00c18f4fa473847235ba9"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Runtime.dll": {
+      "size": 12288,
+      "sha256": "e0a7334b7ba419aaab6bd3bb6992d693e689341a9178172c9bf99c2aa6a085bd"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Runtime.Serialization.dll": {
+      "size": 934400,
+      "sha256": "1152ef687dbe39e0ccb6b9a68f6501004415a729072df29abab3bc7c66840217"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Security.dll": {
+      "size": 320000,
+      "sha256": "2101a4dd4475285f96b1ac3ba1715a52aa8067690709e675cc49a9eb8ed901a4"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.ServiceModel.Internals.dll": {
+      "size": 215040,
+      "sha256": "888ec94a59c127854871b76afa49fdcefdf723c0f0b6fd78e87f73a8495b63b5"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Transactions.dll": {
+      "size": 35328,
+      "sha256": "f65dbc257d26a361dcc01edd58bf3e542d186c8ee492a4f7a62b0dd7d59f7050"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Xml.dll": {
+      "size": 3160064,
+      "sha256": "79194220adfcf027a334c87b1adcc6d07b9660a4061e04b3d9500c10d30f7d49"
+    },
+    "Superfighters Unity Edition_Data/Managed/System.Xml.Linq.dll": {
+      "size": 136704,
+      "sha256": "4f5d6bf313cbf091e7bff83d07dd03ed93d0ecb3ddb025ae786aadd6b5f477fb"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.2D.Animation.Runtime.dll": {
+      "size": 89600,
+      "sha256": "f87b49c1aad814c48cab1caff8bfa3677b6f9b072a508cada8c0adaccad2481d"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.2D.Common.Runtime.dll": {
+      "size": 58368,
+      "sha256": "b0f56aa0efecab32c7822a21e32a28eaf589ff88e031d08f3c6092580fe04a41"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.2D.IK.Runtime.dll": {
+      "size": 40960,
+      "sha256": "ee946d12dca7e4c6d47f5862846833e0b25263369c0c29c9d50db1da2e7efc91"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.2D.PixelPerfect.dll": {
+      "size": 12288,
+      "sha256": "7e49256fbda812b682fefad16df491e6d4c1e3200dc87319e6e4146b5c029084"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.2D.SpriteShape.Runtime.dll": {
+      "size": 113152,
+      "sha256": "9561feeea34ae2af5059bccb05254d6c940de465bd5771ddd0f0738334ce406d"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.2D.Tilemap.Extras.dll": {
+      "size": 40448,
+      "sha256": "9a1f91d11b5edf8eb4638458ea94b676945f7e9788e80751cccb3b7176145663"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.Burst.dll": {
+      "size": 304640,
+      "sha256": "14eab0c8843594e4a58942eb05305930055cb1857bf8553257f955855b2cd2f1"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.Burst.Unsafe.dll": {
+      "size": 5632,
+      "sha256": "9d9c1ff52411decbee5d9f0d1cd61ebeaa222077aa77a52101ea3debafae98e2"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.Collections.dll": {
+      "size": 450560,
+      "sha256": "2a1efe748d17e16b8b768fcb039060471feedcf843cb00d5a5c5b41f13977e91"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll": {
+      "size": 5120,
+      "sha256": "ff50383f807f9692e4913b97e47d86fefcb8faa33d6d48cd3e3fd6fc7ffb448d"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.InternalAPIEngineBridge.001.dll": {
+      "size": 6656,
+      "sha256": "4f0b44806f3e62e18b11cf2569bc169a50e4a8928e0ad35354581cd87d1efa9d"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.InternalAPIEngineBridge.004.dll": {
+      "size": 4608,
+      "sha256": "5cf7c00333e5e798c3bf616a7856b0a9462c385ae5de0292af82b132f472cdd8"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.Mathematics.dll": {
+      "size": 752640,
+      "sha256": "563358898e1f75e64488a85b9c191de49040e87b8557395475493f67597966e7"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.Multiplayer.Center.Common.dll": {
+      "size": 10752,
+      "sha256": "31b480059a9fe560a5945c3b30957aeb72ac8006a9ed99a8dc9123c096b5bf9d"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.TextMeshPro.dll": {
+      "size": 445952,
+      "sha256": "b4e833eab698ee7ce1f38d9546476e898caf992a60815c552a4cafa984c74209"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.Timeline.dll": {
+      "size": 134656,
+      "sha256": "fb1c81964904b94710fb5aa1f16f455dca5e81307bce517189d49751561f5118"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll": {
+      "size": 86016,
+      "sha256": "ed7ce205f66eafe39bbb5d084d42e7fe11cb4b386ff208e5d5110891be0b7b37"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.VisualScripting.Core.dll": {
+      "size": 628736,
+      "sha256": "0a5abcc8f5d3c889d265d98b13f079f7e95a11dd863fd1c32623ca43e4d06bc5"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.VisualScripting.DocCodeExamples.dll": {
+      "size": 7168,
+      "sha256": "e21999c29e8a0f291277d443a606f1c9d92fb97535327ea9b328885a14b3ee8b"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.VisualScripting.Flow.dll": {
+      "size": 404480,
+      "sha256": "3a9d1d4a4daac44c2a287ffc4f75f7efa538482d69d78e29444509d201fc68af"
+    },
+    "Superfighters Unity Edition_Data/Managed/Unity.VisualScripting.State.dll": {
+      "size": 32256,
+      "sha256": "6b7ecd3cea868330ade69cb1ce8cf6bc99e24d21bdd0415ce85f1135b0fb15f3"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.AccessibilityModule.dll": {
+      "size": 50088,
+      "sha256": "8a7d6800d62413423e9bb6ec2af87eda9bae762b08aabc7345f18fb4c1d0eb4c"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.AdaptivePerformanceModule.dll": {
+      "size": 124328,
+      "sha256": "34316eff025ccdc7be76e3671a7bc1fc02d507c5734c3ce43e9a8844fc190dc4"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.AIModule.dll": {
+      "size": 77232,
+      "sha256": "4aadd8305f54c7b5889d75bde6750717ffb17dbf5db3cb92fc2dd7521d117e32"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.AMDModule.dll": {
+      "size": 21928,
+      "sha256": "280750e510454cb16478521e7fff89b1724c8ddf66d4d703fc3fe159ba4b5ef0"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.AndroidJNIModule.dll": {
+      "size": 121256,
+      "sha256": "e33fdf721a3b5dd680d870ebdfa73e94d9b44cea45a4f6da5c40fd11eec5009e"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.AnimationModule.dll": {
+      "size": 225192,
+      "sha256": "008753c45bebf40abbe9606307247ae7b3b3e67964e2542d0ed33f8e79ca392d"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ARModule.dll": {
+      "size": 25512,
+      "sha256": "72731aef55639c4365a8b45948be27578ca239c2e38e22cc8e7a642f89df946c"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.AssetBundleModule.dll": {
+      "size": 41896,
+      "sha256": "73b5fb9e8c41c8d9be1dd7c1561fc87e5ea9c738b3dea9398dcc2ae25162e9f9"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.AudioModule.dll": {
+      "size": 142248,
+      "sha256": "1df8646d65f68e1723f8f016b00505bc3ea6622fe3e935b667a256b422956b3e"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ClothModule.dll": {
+      "size": 36272,
+      "sha256": "5982a557a201ff09a327d7207ea96b343d01c6cac39f306d30d06ed97caf1e71"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ClusterInputModule.dll": {
+      "size": 28080,
+      "sha256": "5df372f2c71f7492779eee968c812ac8d4391dba3d77d011e51b15992980b27b"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ClusterRendererModule.dll": {
+      "size": 26536,
+      "sha256": "61fd7640635d91d39db90bd12622186f7113b84dd544739cc6c025945f6a2fec"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ContentLoadModule.dll": {
+      "size": 32680,
+      "sha256": "c4bcdf5f71715efac2f5c583c2d3922ec30b8cb4e416096d38ac18b8090649d3"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.CoreModule.dll": {
+      "size": 1982376,
+      "sha256": "7de56d1259f25d8b0cfdc9f4c77030056886bb9ac119854d3155bd87a54c0af7"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.CrashReportingModule.dll": {
+      "size": 26544,
+      "sha256": "fc740563b94f895f4f837490fb5712ee0f1f4ff82b8b54ff718ddfe67058005d"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.DirectorModule.dll": {
+      "size": 41384,
+      "sha256": "8fed23041f8f5c24745f5cb89cf10d0cc31408cdce2d3980234d952c88d11392"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.dll": {
+      "size": 197032,
+      "sha256": "b12b4cfd78ef40386959e28966b9e96ed2f4b2bb438908994fa35731f1e1aee7"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.DSPGraphModule.dll": {
+      "size": 31664,
+      "sha256": "feda09b22583da44c76c1644a387fe6c1013a7741ae7c5bc6e43042a981f8eb6"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.GameCenterModule.dll": {
+      "size": 45480,
+      "sha256": "60c7b69cfa6aef59a7c4d8ddfa20285d324ca0c1a332d4ef8a561257b0a7945f"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.GIModule.dll": {
+      "size": 24488,
+      "sha256": "2a24153e84e3ec1e0bf599637d487d55f623660e035ba40405cda11f20621115"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll": {
+      "size": 14248,
+      "sha256": "04600af02941031611bdc371f459c51cdef344d4ae0ffd8f73763b083667fb42"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.GridModule.dll": {
+      "size": 30120,
+      "sha256": "424ff6bfcfc3c27ea074809a5e77413e9f4c7ba379a81f8ae924a24bf033e6d2"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.HierarchyCoreModule.dll": {
+      "size": 109480,
+      "sha256": "83bb4bfb97da1b629ef0a4c262c08c33a7b7f9d5d36fde0d0e30c2e5016e6e4e"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.HierarchyModule.dll": {
+      "size": 102320,
+      "sha256": "f85e894c1588e95af4deae1ed8704874fe0c0764700b05c178f1f60b2facbdee"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.HotReloadModule.dll": {
+      "size": 24496,
+      "sha256": "516a300cffd8c03b623225bf103fa07b7792feb41064dfa3e17b2b631b8bf1e6"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.IdentifiersModule.dll": {
+      "size": 14768,
+      "sha256": "228e6a653a1b4a0499a13267e06846773b6e3be6b02bcfca3838f8cfa4c9f7e5"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ImageConversionModule.dll": {
+      "size": 31144,
+      "sha256": "fa36e41f29ef7351e087286ca590305e8a613861e604cd93977514396fb544a1"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.IMGUIModule.dll": {
+      "size": 213424,
+      "sha256": "577712fb19f217f2e9dcc870e6cf430d4a5836c5c4a745ae89466877dfbb9745"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.InputForUIModule.dll": {
+      "size": 57768,
+      "sha256": "978899464c6719184f17ac1aa28e4a20f6d74bc5e7219b8b885851398c0bc57b"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.InputLegacyModule.dll": {
+      "size": 45480,
+      "sha256": "392d2fc69b06f6102d3215fb4bf49a2abe6b0256a2ff86afda9ea1bc61aea0e2"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.InputModule.dll": {
+      "size": 28080,
+      "sha256": "096f29f53b639959d392eacf8f94b44ce12adc8f2da46d35f722e86ce0127916"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.InsightsModule.dll": {
+      "size": 14248,
+      "sha256": "d621d49e218476f49c2f70f66c9b5a3bc7e7484ba70dcf583e85c40da2ad006c"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.JSONSerializeModule.dll": {
+      "size": 27056,
+      "sha256": "14fb2cb2aa2b460e1d8924368f8747c08e81f9d8db90373cb6537a9ed3c82728"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.LocalizationModule.dll": {
+      "size": 27048,
+      "sha256": "d32820f90848f871c0e138969cf8b0b140b27fa6dad42c61ce3ff753e3d235e7"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.MarshallingModule.dll": {
+      "size": 83368,
+      "sha256": "8bfd18d750fda9f8c3fbaf600edd673034d9ede0498f0c36c117acfd24bd4a1d"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.MultiplayerModule.dll": {
+      "size": 17840,
+      "sha256": "361e7815ab75f99817cba6940d4cced8864011abd91432d0e4f918b827b91cf8"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.NVIDIAModule.dll": {
+      "size": 40360,
+      "sha256": "ffaef80f2422ffe3b293abe93851c5d451c82c97af6d9b8c70a266ff650d82f4"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ParticleSystemModule.dll": {
+      "size": 171440,
+      "sha256": "fedf012eb30ab6b74b4b19f227733c621b619ff0f234c4d95b8bd04588a6aa0c"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.PerformanceReportingModule.dll": {
+      "size": 25000,
+      "sha256": "ee91e4fb6fbd4344014679f837ce65b4d5d8f9bcbf233098d70045445a8815be"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.Physics2DModule.dll": {
+      "size": 578992,
+      "sha256": "614ccdc5623b52a6ed1c233e15daa00a74c010298ce321c1091b076e7e89c14f"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.PhysicsBackendPhysXModule.dll": {
+      "size": 14256,
+      "sha256": "2cf5db024b21bcfe7ed05bf2dd717193cf18eb5788dad96471fa85fc71c98e42"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.PhysicsModule.dll": {
+      "size": 182184,
+      "sha256": "7a2817369078b9bfeb5a7d806a24ce135073b4459d87bc70a89e3308c3bb4575"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.PropertiesModule.dll": {
+      "size": 133032,
+      "sha256": "42e9e2f41987a6bd61087378f7255f23cc9178fcd4e8100fea6b93d6ef966bc0"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.RenderAs2DModule.dll": {
+      "size": 25520,
+      "sha256": "a4ea39e89d9ea3d49879a97654743e382582bff4499948d5e00b12762b2ae285"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll": {
+      "size": 24496,
+      "sha256": "063e3a7f293b3725b9c05719ca0fac5a28efb47396ad5f2a78efaa88cc073bbf"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ScreenCaptureModule.dll": {
+      "size": 26024,
+      "sha256": "ce286ca8fc641183b7159d0bab488100e85c900e887908d9303da6d50b11573e"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ShaderRuntimeModule.dll": {
+      "size": 25512,
+      "sha256": "ba43cbe234c150a447a9aec35f8c554cb33f3aef50e1c8442ba246f6af98bd4f"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll": {
+      "size": 24488,
+      "sha256": "4875baada4ee36877fb0d77055dd808f05c918e9269f7ed33b6a9254648e791f"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.SharedInternalsModule.dll": {
+      "size": 37800,
+      "sha256": "69e234a4a346106a23b8f82c936621d08e7cc407ba1ca793098613bb1078b44c"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.SpriteMaskModule.dll": {
+      "size": 28592,
+      "sha256": "06dddcff8b20949215b46bce3b7692379e16dc6a13cbf9899624fc1734f98fee"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.SpriteShapeModule.dll": {
+      "size": 31664,
+      "sha256": "0f6f7f44a078b65a778281721f24cc2c413eb1203fd60ae03b1bdb11ee407da3"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.StreamingModule.dll": {
+      "size": 25520,
+      "sha256": "e33bc70f2449ce288270dd33855e63c117abf0ea9e4614dc737c7dac7ba47bab"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.SubstanceModule.dll": {
+      "size": 29104,
+      "sha256": "b249790bd635e0640b97455a37a10b4a79177f6cf8e716e4266094c3e677bb0d"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.SubsystemsModule.dll": {
+      "size": 41896,
+      "sha256": "f25824d57c5f394b514df03bab7ace58d9e6eb8b55f52c5895404cb591eacf49"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.TerrainModule.dll": {
+      "size": 133552,
+      "sha256": "3b3c39ea0383effef29d600b203789b45bcd3f308f5bd67650057306a2dcc530"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.TerrainPhysicsModule.dll": {
+      "size": 25520,
+      "sha256": "f9d3cc596e1ed6c6af31d1d874c64c44b0c1b6c37d4be9552831a355a7ad5265"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll": {
+      "size": 81832,
+      "sha256": "ff444583b096dac46a7f166f4b31f4dfdec8215ddb0c194a642e0d556022ee45"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll": {
+      "size": 331688,
+      "sha256": "7d22466042f90ebcf1b4edd3b1899b7a648396736a835789a6b3682b9bf03ee6"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.TextRenderingModule.dll": {
+      "size": 39344,
+      "sha256": "08101957cbac2a025d98722f19b7be6397a493055d4fe1c71921dbad1a6ff5f5"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.TilemapModule.dll": {
+      "size": 58280,
+      "sha256": "20417bd172680153cebbb8a627fe8f3fd1bcd53ad6ed7ecd66f406f3c25ee6bb"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.TLSModule.dll": {
+      "size": 31144,
+      "sha256": "1640aae47dc1eb5b9b92b862ddc13cc11ac46f24aa0c3d4557d1d486b4c39a39"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UI.dll": {
+      "size": 276480,
+      "sha256": "4c4fca1b90f2d371ef84ee8837c3e8ea3477d9a487cca023d950810e2cf4932d"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UIElementsModule.dll": {
+      "size": 2443184,
+      "sha256": "17665e29b26331de4ea8d55a0cb179caaded9392e502e830639746de7a2c0ff8"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UIModule.dll": {
+      "size": 49576,
+      "sha256": "ff6bd636bae03824036846de78fe508a93511ad9326026ee7d6045ea62304559"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UmbraModule.dll": {
+      "size": 24496,
+      "sha256": "b5cdca42e0c9c6d76b0cd81ab74949afe517463432498c65ef894f650bd1c8b6"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll": {
+      "size": 35760,
+      "sha256": "e2c977632a6af6c2494787d3e0270398ab76f4bdaeafb8b4035996e0ee7ac743"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityAnalyticsModule.dll": {
+      "size": 60848,
+      "sha256": "305fe38f6b4859aa68e69778dce6b349e3e072ac2652dcc9ad5288c96593667a"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityConnectModule.dll": {
+      "size": 27568,
+      "sha256": "4d85e209723e6dc2dc88b13f4f0ab72d8f152b3da8e3e50e2231edde14c10f79"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityConsentModule.dll": {
+      "size": 16296,
+      "sha256": "07fedc3b5d2ef2ec7050e46a25dfd23c5a3611cb6de84ed214e081c71001d539"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityCurlModule.dll": {
+      "size": 26024,
+      "sha256": "4b127fd008a7396304cd6e213719ab629c4ba9d0d10dc23a5712ab49414bb58e"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll": {
+      "size": 28592,
+      "sha256": "564cedeb2e15dd24729f096adee910cdb2c9328755e8491bb3a9d99d914975f8"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll": {
+      "size": 28072,
+      "sha256": "1e605943be8901cc5d5489423039f9a43ed913be8e56391d6ae38e1480659fef"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityWebRequestModule.dll": {
+      "size": 69040,
+      "sha256": "226eed6b554a778c6a1af6154da7a87563c3c113dd4b3b02d0344c4eb90c8d14"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll": {
+      "size": 27568,
+      "sha256": "3e2dae58b362347e1a13e9e72988756cfc273254b3f57f178b6363911545fe53"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll": {
+      "size": 36272,
+      "sha256": "ef5f352d7910fd6e11fc7563523ad5e15389222d07aaaf8ff322634bcebbdf4a"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.VectorGraphicsModule.dll": {
+      "size": 252336,
+      "sha256": "16699575d6a87f2937d4117e08da2749452f30a53ce2b496de065bcc0c73c810"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.VehiclesModule.dll": {
+      "size": 31144,
+      "sha256": "947fb814d69e7a716038fa4a596ec8ee85aa22ef97aee4de9772c7bdf840e514"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.VFXModule.dll": {
+      "size": 78248,
+      "sha256": "d4069b37af15c756ab95d6bc8480de804486b5403eb21e4a31f7806545e147bb"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.VideoModule.dll": {
+      "size": 49072,
+      "sha256": "558fc72602c7e4dffd5c1921e931047c6c9968009c3c3bcfabc9242e852d881d"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.VirtualTexturingModule.dll": {
+      "size": 42928,
+      "sha256": "a169678e1b5e1c50bcdcb52f15609ab3eec8069f9a9af80f0b67dcf150d98b16"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.VRModule.dll": {
+      "size": 31656,
+      "sha256": "1f592610baf060823ffd2e5d7428fadaa69628de5fc299f83918d791c9cf052d"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.WindModule.dll": {
+      "size": 26536,
+      "sha256": "6fab10a1a8759596fbbceb6831249b3158d007d6ab0f9e0584fb687c561202af"
+    },
+    "Superfighters Unity Edition_Data/Managed/UnityEngine.XRModule.dll": {
+      "size": 88488,
+      "sha256": "2b930c1f84e8e30df154db52f1efc0b2327401a75d1b91ffecc408a509922af5"
+    },
+    "Superfighters Unity Edition_Data/Plugins/x86_64/lib_burst_generated.dll": {
+      "size": 245248,
+      "sha256": "1fe631e53c84d49c4c64da0624aaaa64957163f85335d40350469f9396f78692"
+    },
+    "Superfighters Unity Edition_Data/Resources/unity default resources": {
+      "size": 5923140,
+      "sha256": "fb2492cd1ad7c38dda8a4ce5f1a1fb57edcff44e3ae250b263e44beae3660ec4"
+    },
+    "Superfighters Unity Edition_Data/Resources/unity_builtin_extra": {
+      "size": 401736,
+      "sha256": "4532f22993fe9e2935c4247f7d4f11ac5b93ebd437c9b4148cb7839656979ab2"
+    }
+  },
+  "_signature": "Nbh5EhR+HpMMmXpTQwFT/po0QhKr1uuaB1zvNo/U+vw="
+}
