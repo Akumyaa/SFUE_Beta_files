@@ -1,9 +1,9 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.3a",
   "base_url": "https://media.githubusercontent.com/media/Akumyaa/SFUE_Beta_files/main",
-  "generated_at": "2026-10-09 09:30:18",
+  "generated_at": "2026-10-09 10:25:00",
   "total_files": 201,
-  "total_size": 416976533,
+  "total_size": 416976543,
   "files": {
     "Superfighters Unity Edition.exe": {
       "size": 667648,
@@ -14,8 +14,8 @@
       "sha256": "043996479f30c535c580c4286d517400ce8408ec9862fc86baced42c78c9d9c1"
     },
     "UnityPlayer.dll": {
-      "size": 35830192,
-      "sha256": "a2022611884470ddab23927a3eb7bbaef3924c18972d30ba7b5330a8fd25bcc4"
+      "size": 35830202,
+      "sha256": "d7eea7be1e5d2c872c46f9af7657b08ebfc896d72b6417dc14ad5be078f0e316"
     },
     "D3D12/D3D12Core.dll": {
       "size": 4725304,
@@ -810,5 +810,5 @@
       "sha256": "4532f22993fe9e2935c4247f7d4f11ac5b93ebd437c9b4148cb7839656979ab2"
     }
   },
-  "_signature": "Fem4UVrLSsFUMrstR/rJhNsWz2kGmW7e4a8aV0M11Cw="
+  "_signature": "vC0QQnhCzGDXpB5gp06XXi2L1guBkDlj4SkKQvqAcGs="
 }
