@@ -1,7 +1,7 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.3",
   "base_url": "https://media.githubusercontent.com/media/Akumyaa/SFUE_Beta_files/main",
-  "generated_at": "2026-09-29 00:14:54",
+  "generated_at": "2026-10-09 09:30:18",
   "total_files": 201,
   "total_size": 416976533,
   "files": {
@@ -810,5 +810,5 @@
       "sha256": "4532f22993fe9e2935c4247f7d4f11ac5b93ebd437c9b4148cb7839656979ab2"
     }
   },
-  "_signature": "FT32ZM+fREtzn/Dxe9Iq3LPqOXvkt7t0kBgxIStS1iY="
+  "_signature": "Fem4UVrLSsFUMrstR/rJhNsWz2kGmW7e4a8aV0M11Cw="
 }
